@@ -1,0 +1,65 @@
+
+		/*reset css*/
+		
+		html, body, div, span, applet, object, iframe, h1, h2, h3, h4, h5, h6, p, blockquote, pre, a, abbr, acronym, address, big, cite, code, del, dfn, em, img, ins, kbd, q, s, samp, small, strike, strong, sub, sup, tt, var, b, u, i, center, dl, dt, dd, ol, ul, li, fieldset, form, label, legend, table, caption, tbody, tfoot, thead, tr, th, td, article, aside, canvas, details, embed, figure, figcaption, footer, header, hgroup, menu, nav, output, ruby, section, summary, time, mark, audio, video {
+		  margin:0;
+		  padding:0;
+		  border:0;
+		  font-size:100%;
+		  font:inherit;
+		  vertical-align:baseline;
+		}
+		article, aside, details, figcaption, figure, footer, header, hgroup, menu, nav, section {
+		  display:block;
+		}
+		body {
+		  line-height:1.5;
+		}
+		ul, ol {
+		  list-style:none;
+		}
+
+		blockquote, q {
+		  quotes:none;
+		}
+
+		blockquote:before, blockquote:after, q:before, q:after {
+		  content:'';
+		  content:none;
+		}
+
+		table {
+		  border-collapse:collapse;
+		  border-spacing:0;
+		}
+	
+	
+		
+	html {color: black; font-family: 'Sedgwick Ave', times, Arial; margin: 0px 0px;}
+	
+	a {color: green}
+	em {color: rgb(255, 128, 0)}
+	strong {font-weight:bold;}
+	i {font-style: italic}
+	.imgs {width: 50px;}
+	.imgl {width: 300px;}
+	
+	h1{color:rgb(255, 0, 102); font-size: 25px; text-align: center; text-shadow:1px 1px 1px rgba(0,0,0,0.5);}
+	h2{color:rgb(0, 60, 179); font-size: 20px;}
+
+	
+	#header{border: dashed red 1px; margin: 0px 100px; padding: 15px; background: none;}
+	#all{border: solid black 3px; padding: 20px; background: none; }
+	#avatar{ padding: 10px; background: none; position: fixed; top: 15px; right:20px; font-size:50%}
+	#ml{margin: 10px 100px;padding: 20px 80px; 
+		background: linear-gradient(to bottom,  rgba(31,158,109,1) 0%,rgba(125,185,232,0) 100%); /* W3C, IE10+, FF16+, Chrome26+, Opera12+, Safari7+ */
+		}
+	
+body {
+	
+	/*background-color: rgba(234, 210, 249,0.5);*/
+
+
+	background: linear-gradient(to bottom,  rgba(226,226,226,1) 0%,rgba(219,219,219,1) 50%,rgba(209,209,209,1) 51%,rgba(254,254,254,1) 100%); /* W3C, IE10+, FF16+, Chrome26+, Opera12+, Safari7+ */
+
+}
